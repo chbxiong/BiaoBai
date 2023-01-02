@@ -212,7 +212,7 @@ turtle.color("blue")
 
 turtle.goto(180, -100)
 
-turtle.write("邹阳~^_^", font=("Times", 18, "bold"))
+turtle.write("邹某某~^_^", font=("Times", 18, "bold"))
 
 time.sleep(20)
 
